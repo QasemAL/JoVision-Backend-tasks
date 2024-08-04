@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|c:\\users\\user\\documents\\github\\jovision-backend-tasks\\backendtasks\\controllers\\task47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|solutionrelative:controllers\\task47.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|c:\\users\\user\\documents\\github\\jovision-backend-tasks\\backendtasks\\controllers\\task46.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|solutionrelative:controllers\\task46.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|c:\\users\\user\\documents\\github\\jovision-backend-tasks\\backendtasks\\controllers\\task44.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|solutionrelative:controllers\\task44.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|c:\\users\\user\\documents\\github\\jovision-backend-tasks\\backendtasks\\controllers\\task45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAA6342-AE60-474E-BBBD-8EBDB9056959}|BackEndTasks.csproj|solutionrelative:controllers\\task45.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task47.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task47.cs",
+              "RelativeDocumentMoniker": "Controllers\\Task47.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task47.cs",
+              "RelativeToolTip": "Controllers\\Task47.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:59:27.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task46.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task46.cs",
+              "RelativeDocumentMoniker": "Controllers\\Task46.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task46.cs",
+              "RelativeToolTip": "Controllers\\Task46.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAD4vz8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:55:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task44.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task44.cs",
+              "RelativeDocumentMoniker": "Controllers\\Task44.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task44.cs",
+              "RelativeToolTip": "Controllers\\Task44.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:49:25.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task45.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task45.cs",
+              "RelativeDocumentMoniker": "Controllers\\Task45.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\Controllers\\Task45.cs",
+              "RelativeToolTip": "Controllers\\Task45.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:48:31.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

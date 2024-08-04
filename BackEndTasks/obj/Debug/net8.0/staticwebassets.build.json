@@ -1,11 +1,58 @@
 {
   "Version": 1,
-  "Hash": "1STfFIHPQorjJe2/+NxNUe64ns6HyTd11VyozzbzXLs=",
+  "Hash": "qHRQg+AmJdgG3nSi9o5N3U8caG/W1fcGIJFrKM2fmjw=",
   "Source": "BackEndTasks",
   "BasePath": "_content/BackEndTasks",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "BackEndTasks\\wwwroot",
+      "Source": "BackEndTasks",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\",
+      "BasePath": "_content/BackEndTasks",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking.jpg",
+      "SourceId": "BackEndTasks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\",
+      "BasePath": "_content/BackEndTasks",
+      "RelativePath": "uploads/personwalking.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\personwalking.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking.json",
+      "SourceId": "BackEndTasks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\",
+      "BasePath": "_content/BackEndTasks",
+      "RelativePath": "uploads/personwalking.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\personwalking.json"
+    }
+  ]
 }

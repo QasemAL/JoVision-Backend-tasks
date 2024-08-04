@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tasl46.props" />
+</Project>

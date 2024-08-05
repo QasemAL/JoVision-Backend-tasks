@@ -1,6 +1,22 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\Poster.jpg",
+      "PackagePath": "staticwebassets\\uploads\\Poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\Poster.json",
+      "PackagePath": "staticwebassets\\uploads\\Poster.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\personwalking (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking (1).json",
+      "PackagePath": "staticwebassets\\uploads\\personwalking (1).json"
+    },
+    {
       "Id": "C:\\Users\\user\\Documents\\GitHub\\JoVision-Backend-tasks\\BackEndTasks\\wwwroot\\uploads\\personwalking.jpg",
       "PackagePath": "staticwebassets\\uploads\\personwalking.jpg"
     },
